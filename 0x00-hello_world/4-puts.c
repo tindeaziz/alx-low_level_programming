@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
-*main - For ALX Programme
+* main - For ALX Programme
+* Return: the value is 0
 */
 int main(void)
 {
