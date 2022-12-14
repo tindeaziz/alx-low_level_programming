@@ -16,5 +16,5 @@ for (i = 'a' ; i <= 'z' ; i++)
 	else if (i != c)
 		return (0);
 }
-	return (c);
+	return (4);
 }
