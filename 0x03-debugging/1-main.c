@@ -9,9 +9,9 @@ int main(void)
 {
 	int i;
 
-	/* This part cause a loop*/
 	printf("Infinite loop incoming :(\n");
 	i = 0;
+/*This part cause a loop*/
 	while (i < 10)
 {
 	putchar(i);
